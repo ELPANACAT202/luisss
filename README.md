@@ -20,3 +20,16 @@ Para poder seguir este taller, deberás tener un conocimiento básico de inform�
 - **Lidia La Cal Mantas**
   - **Twitter:** ----------
   - **LinkedIn:** [--------------------](#)
+
+## Recursos adicionales
+
+   - [Página de descargas de Git](https://git-scm.com/downloads)
+   - [Documentación oficial de Git](https://git-scm.com/docs)
+   - [Documentación oficial de GitHub](https://docs.github.com/es)
+   - [Ayuda de GitHub](https://support.github.com)
+   - [Understanding the GitHub flow](https://docs.github.com/es/get-started/using-github/github-flow)
+   - [Docs like code, Anne Gentle](https://www.docslikecode.com/book/)
+   - [The Vocabulary of GitHub for Documentation](https://www.docslikecode.com/articles/github-for-docs/)
+   - [Documenting your projects on GitHub](https://docs.github.com/es/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+   • [Publish Your Project Documentation with GitHub Pages](https://github.blog/developer-skills/github/publish-your-project-documentation-with-github-pages/)
+   • [Git and GitHub essentials for Docs](https://learn.microsoft.com/en-us/contribute/content/git-github-fundamentals)
